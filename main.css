@@ -7,7 +7,6 @@ header {
     display: flex;
     width: 100%;
     justify-content: space-between;
-    position: sticky;
     top: 0;
 }
 
@@ -149,7 +148,6 @@ ul a {
         display: flex;
         width: 100%;
         justify-content: space-evenly;
-        position: sticky;
         top: 0;
     }
     
